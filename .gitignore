@@ -26,6 +26,7 @@
 .sscs-lint.yml
 .env.local
 .env
+.ruby-version
 node_modules/
 /public/system/*
 /public/packs
